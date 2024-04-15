@@ -1,0 +1,53 @@
+{
+  "gadgets": [
+    {
+      "id": 1,
+      "title": "Angular!!!",
+      "techId": "1",
+      "description": "RGB Angular Lamp",
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/angular.png"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "techId": "2",
+      "description": "RGB React Lamp",
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react.png"
+    },
+    {
+      "id": 3,
+      "title": "Oplà",
+      "techId": "3",
+      "description": "RGB Oplà Lamp",
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/opla.png"
+    },
+    {
+      "id": 4,
+      "title": "NUOVO",
+      "techId": "3",
+      "description": "RGB NUOVO Lamp",
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/opla.png"
+    },
+    {
+      "id": 5,
+      "title": "NUOVO 5",
+      "techId": "3",
+      "description": "RGB NUOVO 5 Lamp",
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/opla.png"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "name": "Angular",
+      "github": "https://github.com/angular",
+      "website": "http://www.angular.io"
+    },
+    {
+      "id": 2,
+      "name": "React",
+      "github": "https://github.com/facebook/react",
+      "website": "http://www.react.com"
+    } 
+  ]
+}
